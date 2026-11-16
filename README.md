@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fedaa Mohamed
 
-<!--
-**FedaaM7md/FedaaM7md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Services Specialist** based in Alexandria, Egypt.
+I build, host and look after websites, servers and ad campaigns for businesses.
 
-Here are some ideas to get you started:
+### What I work with
+- **Web development:** HTML, CSS, JavaScript, PHP, Python, WordPress, MySQL
+- **Hosting & servers:** cPanel/WHM, VPS, RDP, Linux & Windows Server, Apache, Nginx, DNS, SSL/TLS
+- **Digital marketing:** Meta Ads, Google Ads, media buying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+The repositories here are projects from my freeCodeCamp coursework
+(relational databases, back-end development and APIs, JavaScript).
+
+### Find me
+- Website: [fedaamohamed.com](https://fedaamohamed.com/)
+- LinkedIn: [linkedin.com/in/fedaa-mohamed](https://www.linkedin.com/in/fedaa-mohamed/)
