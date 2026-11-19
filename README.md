@@ -1,6 +1,6 @@
 # Hi, I'm Fedaa Mohamed
 
-**Digital Services Specialist** based in Alexandria, Egypt.
+**Web & Digital Marketing Specialist** based in Alexandria, Egypt.
 I build, host and look after websites, servers and ad campaigns for businesses.
 
 ### What I work with
