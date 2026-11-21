@@ -1,6 +1,6 @@
 # Hi, I'm Fedaa Mohamed
 
-**Web & Digital Marketing Specialist** based in Alexandria, Egypt.
+**Web Developer** based in Alexandria, Egypt.
 I provide web development, hosting, server administration and digital marketing services.
 
 ### What I work with
